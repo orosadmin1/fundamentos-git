@@ -10,3 +10,4 @@ Segunda Mudança do Colega
 Terceira Mudança do Colega
 Alteração que que quero manter
 BLoqueado pelas regras do repositório
+Uma nova mudança para o git remoto
