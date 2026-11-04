@@ -11,3 +11,4 @@ Terceira Mudança do Colega
 Alteração que que quero manter
 BLoqueado pelas regras do repositório
 Minha mudança para subir para o remoto do git
+Deve ser bloqueada
